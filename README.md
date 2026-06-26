@@ -113,7 +113,7 @@ Based on the profit analysis, the Tables sub-category should be reviewed further
 
 ## Dataset
 
-This project uses the Superstore dataset from Kaggle, which includes sales, profit, category, region, order date, and product-level data for business performance analysis.
+This project uses the [Superstore dataset from Kaggle](https://www.kaggle.com/datasets/divyjn28/superstore-dataset), which includes sales, profit, category, region, order date, and product-level data for business performance analysis.
 
 ---
 
