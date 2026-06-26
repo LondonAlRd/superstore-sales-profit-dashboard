@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0F766E&height=70&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F766E&height=90&section=header" width="100%" />
 
 # Superstore Sales & Profit Analytics Dashboard
 
@@ -78,11 +78,12 @@ It helps identify both high-performing areas and loss-making sub-categories.
 
 ## Key Insights
 
-* Technology is the top-performing category in both sales and profit.
-* West region records the highest sales and profitability performance.
-* Monthly sales show an upward trend toward 2017, with noticeable fluctuations.
-* Tables show negative profit, suggesting a need for pricing, discount, or cost review.
-
+- Technology is the strongest sales and profit category, making it the main performance driver in the dataset.
+- West region records the highest sales and profitability performance.
+- Furniture contributes to total sales but generates significantly lower profit compared to Technology and Office Supplies.
+- Tables show negative profit, suggesting a need to review pricing, discounting, or cost structure.
+- Monthly sales fluctuate across the period, with stronger sales peaks appearing toward 2017.
+  
 ---
 
 ## Business Recommendation
@@ -104,9 +105,9 @@ Based on the profit analysis, the Tables sub-category should be reviewed further
 
 ## Project Files
 
-* Power BI report file: `.pbix`
-* Dashboard preview: `.pdf`
-* Dashboard screenshots: `images/`
+- [Power BI Report File (.pbix)](./Superstore%20Sales%20%26%20Profit%20Dashboard%20-%20Raghad.pbix)
+- [Dashboard PDF Preview](./Superstore%20Sales%20%26%20Profit%20Dashboard%20-%20Raghad.pdf)
+- [Dashboard Screenshots](./images)
 
 ---
 
