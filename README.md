@@ -119,9 +119,6 @@ This project uses the Superstore dataset from Kaggle, which includes sales, prof
 
 <div align="center">
 
-<p>
-  Built with Power BI to turn raw sales data into clear business insights.
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0F766E&height=90&section=footer" width="100%" />
 
