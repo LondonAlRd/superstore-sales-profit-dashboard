@@ -1,10 +1,20 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0F766E&height=70&section=header" width="100%" />
+
 # Superstore Sales & Profit Analytics Dashboard
 
-![Power BI](https://img.shields.io/badge/Tool-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-Data%20Analysis%20Expressions-4F7F7D?style=for-the-badge)
-![Business Analysis](https://img.shields.io/badge/Focus-Business%20Analysis-2F4F4F?style=for-the-badge)
+<p>
+An interactive Power BI dashboard designed to analyze sales performance, profitability, regional trends, monthly sales patterns, and loss-making sub-categories.
+</p>
 
-An interactive Power BI dashboard designed to analyze sales performance, profitability, regional trends, monthly sales patterns, and loss-making sub-categories using KPIs, slicers, DAX measures, and business insights.
+<p>
+  <img src="https://img.shields.io/badge/Tool-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/DAX-Data%20Analysis%20Expressions-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Business%20Analysis-134E4A?style=for-the-badge" />
+</p>
+
+</div>
 
 ---
 
@@ -103,3 +113,17 @@ Based on the profit analysis, the Tables sub-category should be reviewed further
 ## Dataset
 
 This project uses the Superstore dataset from Kaggle, which includes sales, profit, category, region, order date, and product-level data for business performance analysis.
+
+---
+
+<div align="center">
+
+<p>
+  Built with Power BI to turn raw sales data into clear business insights.
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F766E&height=90&section=footer" width="100%" />
+
+</div>
+
+
