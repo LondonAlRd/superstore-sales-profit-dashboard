@@ -37,7 +37,7 @@ The goal is not only to visualize the data, but to identify patterns, compare pe
 | Tool / Skill      | Purpose                                        |
 | ----------------- | ---------------------------------------------- |
 | Power BI          | Dashboard design and data visualization        |
-| DAX (Data Analysis Expressions) | Created a Profit Margin measure for profitability analysis |
+| DAX (Data Analysis Expressions) | Created custom measures for profitability and customer analysis |
 | Slicers | Interactive filtering by region, category, and segment |
 | KPI Cards         | High-level business metrics                    |
 | Business Analysis | Turning data into insights and recommendations |
