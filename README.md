@@ -38,7 +38,7 @@ The goal is not only to visualize the data, but to identify patterns, compare pe
 | ----------------- | ---------------------------------------------- |
 | Power BI          | Dashboard design and data visualization        |
 | DAX (Data Analysis Expressions) | Created a Profit Margin measure for profitability analysis |
-| Slicers           | Interactive filtering by region and category   |
+| Slicers | Interactive filtering by region, category, and segment |
 | KPI Cards         | High-level business metrics                    |
 | Business Analysis | Turning data into insights and recommendations |
 
@@ -72,6 +72,8 @@ This page analyzes customer and segment performance, including total customers, 
 
 ![Customer & Segment Analysis Dashboard](images/customer-segment-analysis.png)
 
+---
+
 ## Key Metrics
 
 | Metric         |   Value |
@@ -95,11 +97,15 @@ This page analyzes customer and segment performance, including total customers, 
 - Consumer segment generates the highest sales and profit.
 - Standard Class has the largest sales share by ship mode.
 - Customer profitability varies, even among high-sales customers.
+
+
 ---
 
 ## Business Recommendation
 
 Based on the profit analysis, the Tables sub-category should be reviewed further due to its negative profit performance. This may require evaluating pricing strategy, discount levels, cost structure, or sales approach.
+
+Customer profitability should also be monitored, especially for high-sales customers with lower profit contribution, to ensure sales growth is aligned with profitability.
 
 ---
 
@@ -116,7 +122,7 @@ Based on the profit analysis, the Tables sub-category should be reviewed further
 ## Project Files
 
 - [Power BI Report File (.pbix)](./Superstore%20Sales%20%26%20Profit%20Dashboard%20-%20Raghad.pbix)
-- [Dashboard PDF Preview](./Superstore%20Sales%20%26%20Profit%20Dashboard%20-%20Raghad.pdf)
+- [Dashboard PDF Preview](./Superstore%20Sales%20%26%20Profit%20Dashboard%20Updated%20-%20Raghad.pdf)
 - [Dashboard Screenshots](./images)
 
 ---
