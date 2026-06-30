@@ -5,7 +5,7 @@
 # Superstore Sales & Profit Analytics Dashboard
 
 <p>
-An interactive Power BI dashboard designed to analyze sales performance, profitability, regional trends, monthly sales patterns, and loss-making sub-categories.
+  An interactive Power BI business analytics dashboard designed to analyze sales performance, profitability, customer behavior, segment performance, shipping distribution, and loss-making sub-categories using KPIs, slicers, DAX measures, and business insights.
 </p>
 
 <p>
@@ -22,12 +22,13 @@ An interactive Power BI dashboard designed to analyze sales performance, profita
 
 This project analyzes the Superstore dataset using Power BI to transform raw sales data into clear business insights.
 
-The dashboard focuses on two main areas:
+The dashboard focuses on three main areas:
 
-* Sales performance overview
-* Profitability and loss analysis
+- Sales performance overview
+- Profitability and loss analysis
+- Customer and segment analysis
 
-The goal is not only to visualize the data, but to identify patterns, compare performance across regions and categories, and highlight sub-categories that may require business review.
+The goal is not only to visualize the data, but to identify patterns, compare performance across regions, categories, customer segments, and shipping modes, and highlight areas that may require business review.
 
 ---
 
@@ -65,6 +66,12 @@ It helps identify both high-performing areas and loss-making sub-categories.
 
 ---
 
+### 3. Customer & Segment Analysis Dashboard
+
+This page analyzes customer and segment performance, including total customers, total orders, average sales per customer, sales by segment, profit by segment, sales distribution by ship mode, and the relationship between customer sales and profitability.
+
+![Customer & Segment Analysis Dashboard](images/customer-segment-analysis.png)
+
 ## Key Metrics
 
 | Metric         |   Value |
@@ -73,17 +80,21 @@ It helps identify both high-performing areas and loss-making sub-categories.
 | Total Profit   | 286.40K |
 | Total Quantity |     38K |
 | Profit Margin  |  12.47% |
+| Total Customers | 793 |
+| Total Orders | 5K |
+| Average Sales per Customer | 2.90K |
 
 ---
 
 ## Key Insights
 
-- Technology is the strongest sales and profit category, making it the main performance driver in the dataset.
+- Technology is the strongest category in both sales and profit.
 - West region records the highest sales and profitability performance.
-- Furniture contributes to total sales but generates significantly lower profit compared to Technology and Office Supplies.
+- Furniture contributes to sales but generates significantly lower profit compared to Technology and Office Supplies.
 - Tables show negative profit, suggesting a need to review pricing, discounting, or cost structure.
-- Monthly sales fluctuate across the period, with stronger sales peaks appearing toward 2017.
-  
+- Consumer segment generates the highest sales and profit.
+- Standard Class has the largest sales share by ship mode.
+- Customer profitability varies, even among high-sales customers.
 ---
 
 ## Business Recommendation
@@ -94,13 +105,12 @@ Based on the profit analysis, the Tables sub-category should be reviewed further
 
 ## Skills Demonstrated
 
-* Built an interactive dashboard using Power BI.
-* Created KPI cards for key business metrics.
-* Used slicers to enable dynamic filtering.
-* Created a DAX measure to calculate profit margin.
-* Analyzed sales, profit, regional trends, and sub-category performance.
-* Translated raw data into business insights and recommendations.
-
+- Built an interactive business analytics dashboard using Power BI.
+- Created KPI cards and slicers for dynamic filtering.
+- Used DAX to calculate profit margin, total customers, total orders, and average sales per customer.
+- Analyzed sales, profit, regional trends, customer segments, ship modes, and sub-category performance.
+- Used scatter analysis to compare customer sales and profitability.
+- Translated raw data into business insights and recommendations.
 ---
 
 ## Project Files
